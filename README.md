@@ -1,0 +1,1 @@
+A management system created with python to add, view, and search eradicated diseases. Stores and displays information like Name of the Disease, Year of Last Occurrence, Number of Deaths, and Founder of the Vaccine or Cure.
